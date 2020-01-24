@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Martin Fischer, wonderer, launches Site"
+title: "Martin Fischer, Wonderer, Launches Site"
 date: 2020-01-23
 ---
 
