@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Ice Terraces - I wonder how they formed!"
+title: "Ice Terraces - I wonder how they formed"
 date: 2020-01-30
 ---
 ![ice layers that formed over night](https://photos.smugmug.com/The-Things-I-See/Ice-Terraces/i-49vwTS6/0/7eaaa4f3/L/P3340722-L.jpg "ice terraces")
 
-These incredible features formed by themselves. A truly emergent phenomena!
+These incredible features formed by themselves. A truly emergent phenomena.
 
 Each layer is about a centimeter thick, no matter how steep the incline. Actually, that is not quite correct, when the angle gets steeper than about 80 degrees, the ice forms a different pattern:
 
